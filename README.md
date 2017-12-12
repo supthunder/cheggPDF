@@ -1,2 +1,2 @@
-# cheggPDF
-chegg->pdf
+# cheggHTML
+chegg->local HTML copy
